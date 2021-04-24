@@ -1,0 +1,7 @@
+C:\Users\arshs\Documents\Github\CSIS-1175\Dipan Query 3\bin\Debug\Dipan Query 3.exe.config
+C:\Users\arshs\Documents\Github\CSIS-1175\Dipan Query 3\bin\Debug\Dipan Query 3.exe
+C:\Users\arshs\Documents\Github\CSIS-1175\Dipan Query 3\bin\Debug\Dipan Query 3.pdb
+C:\Users\arshs\Documents\Github\CSIS-1175\Dipan Query 3\obj\Debug\DipanQuery3.csprojAssemblyReference.cache
+C:\Users\arshs\Documents\Github\CSIS-1175\Dipan Query 3\obj\Debug\DipanQuery3.csproj.CoreCompileInputs.cache
+C:\Users\arshs\Documents\Github\CSIS-1175\Dipan Query 3\obj\Debug\Dipan Query 3.exe
+C:\Users\arshs\Documents\Github\CSIS-1175\Dipan Query 3\obj\Debug\Dipan Query 3.pdb

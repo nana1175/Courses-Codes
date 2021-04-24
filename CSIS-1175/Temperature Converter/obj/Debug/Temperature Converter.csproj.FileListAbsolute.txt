@@ -1,0 +1,7 @@
+C:\Users\arshs\Documents\GitHub\Temperature Converter\bin\Debug\Temperature Converter.exe.config
+C:\Users\arshs\Documents\GitHub\Temperature Converter\bin\Debug\Temperature Converter.exe
+C:\Users\arshs\Documents\GitHub\Temperature Converter\bin\Debug\Temperature Converter.pdb
+C:\Users\arshs\Documents\GitHub\Temperature Converter\obj\Debug\Temperature Converter.csprojAssemblyReference.cache
+C:\Users\arshs\Documents\GitHub\Temperature Converter\obj\Debug\Temperature Converter.csproj.CoreCompileInputs.cache
+C:\Users\arshs\Documents\GitHub\Temperature Converter\obj\Debug\Temperature Converter.exe
+C:\Users\arshs\Documents\GitHub\Temperature Converter\obj\Debug\Temperature Converter.pdb

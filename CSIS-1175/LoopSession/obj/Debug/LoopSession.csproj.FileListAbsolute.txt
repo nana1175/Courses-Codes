@@ -1,0 +1,7 @@
+C:\Users\arshs\Documents\CSIS-1175\LoopSession\obj\Debug\LoopSession.csprojAssemblyReference.cache
+C:\Users\arshs\Documents\CSIS-1175\LoopSession\obj\Debug\LoopSession.csproj.CoreCompileInputs.cache
+C:\Users\arshs\Documents\CSIS-1175\LoopSession\bin\Debug\LoopSession.exe.config
+C:\Users\arshs\Documents\CSIS-1175\LoopSession\bin\Debug\LoopSession.exe
+C:\Users\arshs\Documents\CSIS-1175\LoopSession\bin\Debug\LoopSession.pdb
+C:\Users\arshs\Documents\CSIS-1175\LoopSession\obj\Debug\LoopSession.exe
+C:\Users\arshs\Documents\CSIS-1175\LoopSession\obj\Debug\LoopSession.pdb

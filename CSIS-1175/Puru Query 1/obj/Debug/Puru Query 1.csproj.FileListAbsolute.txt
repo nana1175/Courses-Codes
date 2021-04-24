@@ -1,0 +1,7 @@
+C:\Users\arshs\Documents\CSIS-1175\Puru Query 1\obj\Debug\Puru Query 1.csprojAssemblyReference.cache
+C:\Users\arshs\Documents\CSIS-1175\Puru Query 1\obj\Debug\Puru Query 1.csproj.CoreCompileInputs.cache
+C:\Users\arshs\Documents\CSIS-1175\Puru Query 1\bin\Debug\Puru Query 1.exe.config
+C:\Users\arshs\Documents\CSIS-1175\Puru Query 1\bin\Debug\Puru Query 1.exe
+C:\Users\arshs\Documents\CSIS-1175\Puru Query 1\bin\Debug\Puru Query 1.pdb
+C:\Users\arshs\Documents\CSIS-1175\Puru Query 1\obj\Debug\Puru Query 1.exe
+C:\Users\arshs\Documents\CSIS-1175\Puru Query 1\obj\Debug\Puru Query 1.pdb

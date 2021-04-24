@@ -1,0 +1,7 @@
+C:\Users\arshs\Documents\CSIS-1175\DemoOfModifiers\bin\Debug\DemoOfModifiers.exe.config
+C:\Users\arshs\Documents\CSIS-1175\DemoOfModifiers\bin\Debug\DemoOfModifiers.exe
+C:\Users\arshs\Documents\CSIS-1175\DemoOfModifiers\bin\Debug\DemoOfModifiers.pdb
+C:\Users\arshs\Documents\CSIS-1175\DemoOfModifiers\obj\Debug\DemoOfModifiers.csprojAssemblyReference.cache
+C:\Users\arshs\Documents\CSIS-1175\DemoOfModifiers\obj\Debug\DemoOfModifiers.csproj.CoreCompileInputs.cache
+C:\Users\arshs\Documents\CSIS-1175\DemoOfModifiers\obj\Debug\DemoOfModifiers.exe
+C:\Users\arshs\Documents\CSIS-1175\DemoOfModifiers\obj\Debug\DemoOfModifiers.pdb

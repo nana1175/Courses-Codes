@@ -1,0 +1,7 @@
+C:\Users\arshs\Documents\GitHub\arshAssignment1_002\bin\Debug\arshAssignment1_002.exe.config
+C:\Users\arshs\Documents\GitHub\arshAssignment1_002\bin\Debug\arshAssignment1_002.exe
+C:\Users\arshs\Documents\GitHub\arshAssignment1_002\bin\Debug\arshAssignment1_002.pdb
+C:\Users\arshs\Documents\GitHub\arshAssignment1_002\obj\Debug\arshAssignment1_002.csprojAssemblyReference.cache
+C:\Users\arshs\Documents\GitHub\arshAssignment1_002\obj\Debug\arshAssignment1_002.csproj.CoreCompileInputs.cache
+C:\Users\arshs\Documents\GitHub\arshAssignment1_002\obj\Debug\arshAssignment1_002.exe
+C:\Users\arshs\Documents\GitHub\arshAssignment1_002\obj\Debug\arshAssignment1_002.pdb

@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v5.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v5.0": {
+      "Windows Form Class Practice/1.0.0": {
+        "runtime": {
+          "Windows Form Class Practice.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Windows Form Class Practice/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

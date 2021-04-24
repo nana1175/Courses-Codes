@@ -1,0 +1,7 @@
+C:\Users\arshs\Documents\GitHub\JoggingTimeCalculator\bin\Debug\JoggingTimeCalculator.exe.config
+C:\Users\arshs\Documents\GitHub\JoggingTimeCalculator\bin\Debug\JoggingTimeCalculator.exe
+C:\Users\arshs\Documents\GitHub\JoggingTimeCalculator\bin\Debug\JoggingTimeCalculator.pdb
+C:\Users\arshs\Documents\GitHub\JoggingTimeCalculator\obj\Debug\JoggingTimeCalculator.csprojAssemblyReference.cache
+C:\Users\arshs\Documents\GitHub\JoggingTimeCalculator\obj\Debug\JoggingTimeCalculator.csproj.CoreCompileInputs.cache
+C:\Users\arshs\Documents\GitHub\JoggingTimeCalculator\obj\Debug\JoggingTimeCalculator.exe
+C:\Users\arshs\Documents\GitHub\JoggingTimeCalculator\obj\Debug\JoggingTimeCalculator.pdb

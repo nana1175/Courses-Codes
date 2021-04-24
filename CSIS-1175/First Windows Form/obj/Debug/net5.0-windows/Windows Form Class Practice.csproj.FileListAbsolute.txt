@@ -1,0 +1,38 @@
+C:\Users\arshs\Documents\Github\CSIS-1175\Class P\bin\Debug\net5.0-windows\Windows Form Class Practice.exe
+C:\Users\arshs\Documents\Github\CSIS-1175\Class P\bin\Debug\net5.0-windows\Windows Form Class Practice.deps.json
+C:\Users\arshs\Documents\Github\CSIS-1175\Class P\bin\Debug\net5.0-windows\Windows Form Class Practice.runtimeconfig.json
+C:\Users\arshs\Documents\Github\CSIS-1175\Class P\bin\Debug\net5.0-windows\Windows Form Class Practice.runtimeconfig.dev.json
+C:\Users\arshs\Documents\Github\CSIS-1175\Class P\bin\Debug\net5.0-windows\Windows Form Class Practice.dll
+C:\Users\arshs\Documents\Github\CSIS-1175\Class P\bin\Debug\net5.0-windows\ref\Windows Form Class Practice.dll
+C:\Users\arshs\Documents\Github\CSIS-1175\Class P\bin\Debug\net5.0-windows\Windows Form Class Practice.pdb
+C:\Users\arshs\Documents\Github\CSIS-1175\Class P\obj\Debug\net5.0-windows\Windows Form Class Practice.csprojAssemblyReference.cache
+C:\Users\arshs\Documents\Github\CSIS-1175\Class P\obj\Debug\net5.0-windows\Class_P.FirstAppForm.resources
+C:\Users\arshs\Documents\Github\CSIS-1175\Class P\obj\Debug\net5.0-windows\Class_P.Properties.Resources.resources
+C:\Users\arshs\Documents\Github\CSIS-1175\Class P\obj\Debug\net5.0-windows\Windows Form Class Practice.csproj.GenerateResource.cache
+C:\Users\arshs\Documents\Github\CSIS-1175\Class P\obj\Debug\net5.0-windows\Windows Form Class Practice.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\arshs\Documents\Github\CSIS-1175\Class P\obj\Debug\net5.0-windows\Windows Form Class Practice.AssemblyInfoInputs.cache
+C:\Users\arshs\Documents\Github\CSIS-1175\Class P\obj\Debug\net5.0-windows\Windows Form Class Practice.AssemblyInfo.cs
+C:\Users\arshs\Documents\Github\CSIS-1175\Class P\obj\Debug\net5.0-windows\Windows Form Class Practice.csproj.CoreCompileInputs.cache
+C:\Users\arshs\Documents\Github\CSIS-1175\Class P\obj\Debug\net5.0-windows\Windows Form Class Practice.dll
+C:\Users\arshs\Documents\Github\CSIS-1175\Class P\obj\Debug\net5.0-windows\ref\Windows Form Class Practice.dll
+C:\Users\arshs\Documents\Github\CSIS-1175\Class P\obj\Debug\net5.0-windows\Windows Form Class Practice.pdb
+C:\Users\arshs\Documents\Github\CSIS-1175\Class P\obj\Debug\net5.0-windows\Windows Form Class Practice.genruntimeconfig.cache
+C:\Users\arshs\Documents\Github\CSIS-1175\First Windows Form\obj\Debug\net5.0-windows\Windows Form Class Practice.csprojAssemblyReference.cache
+C:\Users\arshs\Documents\Github\CSIS-1175\First Windows Form\obj\Debug\net5.0-windows\Class_P.FirstAppForm.resources
+C:\Users\arshs\Documents\Github\CSIS-1175\First Windows Form\obj\Debug\net5.0-windows\Class_P.Properties.Resources.resources
+C:\Users\arshs\Documents\Github\CSIS-1175\First Windows Form\obj\Debug\net5.0-windows\Windows Form Class Practice.csproj.GenerateResource.cache
+C:\Users\arshs\Documents\Github\CSIS-1175\First Windows Form\obj\Debug\net5.0-windows\Windows Form Class Practice.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\arshs\Documents\Github\CSIS-1175\First Windows Form\obj\Debug\net5.0-windows\Windows Form Class Practice.AssemblyInfoInputs.cache
+C:\Users\arshs\Documents\Github\CSIS-1175\First Windows Form\obj\Debug\net5.0-windows\Windows Form Class Practice.AssemblyInfo.cs
+C:\Users\arshs\Documents\Github\CSIS-1175\First Windows Form\obj\Debug\net5.0-windows\Windows Form Class Practice.csproj.CoreCompileInputs.cache
+C:\Users\arshs\Documents\Github\CSIS-1175\First Windows Form\obj\Debug\net5.0-windows\Windows Form Class Practice.dll
+C:\Users\arshs\Documents\Github\CSIS-1175\First Windows Form\obj\Debug\net5.0-windows\ref\Windows Form Class Practice.dll
+C:\Users\arshs\Documents\Github\CSIS-1175\First Windows Form\obj\Debug\net5.0-windows\Windows Form Class Practice.pdb
+C:\Users\arshs\Documents\Github\CSIS-1175\First Windows Form\bin\Debug\net5.0-windows\Windows Form Class Practice.exe
+C:\Users\arshs\Documents\Github\CSIS-1175\First Windows Form\bin\Debug\net5.0-windows\Windows Form Class Practice.deps.json
+C:\Users\arshs\Documents\Github\CSIS-1175\First Windows Form\bin\Debug\net5.0-windows\Windows Form Class Practice.runtimeconfig.json
+C:\Users\arshs\Documents\Github\CSIS-1175\First Windows Form\bin\Debug\net5.0-windows\Windows Form Class Practice.runtimeconfig.dev.json
+C:\Users\arshs\Documents\Github\CSIS-1175\First Windows Form\bin\Debug\net5.0-windows\Windows Form Class Practice.dll
+C:\Users\arshs\Documents\Github\CSIS-1175\First Windows Form\bin\Debug\net5.0-windows\ref\Windows Form Class Practice.dll
+C:\Users\arshs\Documents\Github\CSIS-1175\First Windows Form\bin\Debug\net5.0-windows\Windows Form Class Practice.pdb
+C:\Users\arshs\Documents\Github\CSIS-1175\First Windows Form\obj\Debug\net5.0-windows\Windows Form Class Practice.genruntimeconfig.cache

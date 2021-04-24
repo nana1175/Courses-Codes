@@ -1,0 +1,18 @@
+C:\Users\arshs\Documents\Github\CSIS-1175\Van Query 2\bin\Debug\net5.0-windows\Van Query 2.exe
+C:\Users\arshs\Documents\Github\CSIS-1175\Van Query 2\bin\Debug\net5.0-windows\Van Query 2.deps.json
+C:\Users\arshs\Documents\Github\CSIS-1175\Van Query 2\bin\Debug\net5.0-windows\Van Query 2.runtimeconfig.json
+C:\Users\arshs\Documents\Github\CSIS-1175\Van Query 2\bin\Debug\net5.0-windows\Van Query 2.runtimeconfig.dev.json
+C:\Users\arshs\Documents\Github\CSIS-1175\Van Query 2\bin\Debug\net5.0-windows\Van Query 2.dll
+C:\Users\arshs\Documents\Github\CSIS-1175\Van Query 2\bin\Debug\net5.0-windows\ref\Van Query 2.dll
+C:\Users\arshs\Documents\Github\CSIS-1175\Van Query 2\bin\Debug\net5.0-windows\Van Query 2.pdb
+C:\Users\arshs\Documents\Github\CSIS-1175\Van Query 2\obj\Debug\net5.0-windows\Van Query 2.csprojAssemblyReference.cache
+C:\Users\arshs\Documents\Github\CSIS-1175\Van Query 2\obj\Debug\net5.0-windows\Van_Query_2.Form1.resources
+C:\Users\arshs\Documents\Github\CSIS-1175\Van Query 2\obj\Debug\net5.0-windows\Van Query 2.csproj.GenerateResource.cache
+C:\Users\arshs\Documents\Github\CSIS-1175\Van Query 2\obj\Debug\net5.0-windows\Van Query 2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\arshs\Documents\Github\CSIS-1175\Van Query 2\obj\Debug\net5.0-windows\Van Query 2.AssemblyInfoInputs.cache
+C:\Users\arshs\Documents\Github\CSIS-1175\Van Query 2\obj\Debug\net5.0-windows\Van Query 2.AssemblyInfo.cs
+C:\Users\arshs\Documents\Github\CSIS-1175\Van Query 2\obj\Debug\net5.0-windows\Van Query 2.csproj.CoreCompileInputs.cache
+C:\Users\arshs\Documents\Github\CSIS-1175\Van Query 2\obj\Debug\net5.0-windows\Van Query 2.dll
+C:\Users\arshs\Documents\Github\CSIS-1175\Van Query 2\obj\Debug\net5.0-windows\ref\Van Query 2.dll
+C:\Users\arshs\Documents\Github\CSIS-1175\Van Query 2\obj\Debug\net5.0-windows\Van Query 2.pdb
+C:\Users\arshs\Documents\Github\CSIS-1175\Van Query 2\obj\Debug\net5.0-windows\Van Query 2.genruntimeconfig.cache

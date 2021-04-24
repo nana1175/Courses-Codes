@@ -1,0 +1,7 @@
+C:\Users\arshs\Documents\Github\CSIS-1175\Lab 8 Scripts\Ques2\bin\Debug\Ques2.exe.config
+C:\Users\arshs\Documents\Github\CSIS-1175\Lab 8 Scripts\Ques2\bin\Debug\Ques2.exe
+C:\Users\arshs\Documents\Github\CSIS-1175\Lab 8 Scripts\Ques2\bin\Debug\Ques2.pdb
+C:\Users\arshs\Documents\Github\CSIS-1175\Lab 8 Scripts\Ques2\obj\Debug\Ques2.csprojAssemblyReference.cache
+C:\Users\arshs\Documents\Github\CSIS-1175\Lab 8 Scripts\Ques2\obj\Debug\Ques2.csproj.CoreCompileInputs.cache
+C:\Users\arshs\Documents\Github\CSIS-1175\Lab 8 Scripts\Ques2\obj\Debug\Ques2.exe
+C:\Users\arshs\Documents\Github\CSIS-1175\Lab 8 Scripts\Ques2\obj\Debug\Ques2.pdb

@@ -1,0 +1,14 @@
+C:\Users\arshs\Documents\Github\CSIS-1175\Lab 8 Scripts\Ques1\bin\Debug\Ques1.exe.config
+C:\Users\arshs\Documents\Github\CSIS-1175\Lab 8 Scripts\Ques1\bin\Debug\Ques1.exe
+C:\Users\arshs\Documents\Github\CSIS-1175\Lab 8 Scripts\Ques1\bin\Debug\Ques1.pdb
+C:\Users\arshs\Documents\Github\CSIS-1175\Lab 8 Scripts\Ques1\obj\Debug\Ques1.csprojAssemblyReference.cache
+C:\Users\arshs\Documents\Github\CSIS-1175\Lab 8 Scripts\Ques1\obj\Debug\Ques1.csproj.CoreCompileInputs.cache
+C:\Users\arshs\Documents\Github\CSIS-1175\Lab 8 Scripts\Ques1\obj\Debug\Ques1.exe
+C:\Users\arshs\Documents\Github\CSIS-1175\Lab 8 Scripts\Ques1\obj\Debug\Ques1.pdb
+C:\Users\arshs\Documents\Github\CSIS-1175\Lab 8 Solutions\Ques1\bin\Debug\Ques1.exe.config
+C:\Users\arshs\Documents\Github\CSIS-1175\Lab 8 Solutions\Ques1\bin\Debug\Ques1.exe
+C:\Users\arshs\Documents\Github\CSIS-1175\Lab 8 Solutions\Ques1\bin\Debug\Ques1.pdb
+C:\Users\arshs\Documents\Github\CSIS-1175\Lab 8 Solutions\Ques1\obj\Debug\Ques1.csprojAssemblyReference.cache
+C:\Users\arshs\Documents\Github\CSIS-1175\Lab 8 Solutions\Ques1\obj\Debug\Ques1.csproj.CoreCompileInputs.cache
+C:\Users\arshs\Documents\Github\CSIS-1175\Lab 8 Solutions\Ques1\obj\Debug\Ques1.exe
+C:\Users\arshs\Documents\Github\CSIS-1175\Lab 8 Solutions\Ques1\obj\Debug\Ques1.pdb

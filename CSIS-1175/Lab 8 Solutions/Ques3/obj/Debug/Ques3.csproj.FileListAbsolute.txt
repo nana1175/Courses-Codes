@@ -1,0 +1,13 @@
+C:\Users\arshs\Documents\Github\CSIS-1175\Lab 8 Scripts\Ques3\bin\Debug\Ques3.exe.config
+C:\Users\arshs\Documents\Github\CSIS-1175\Lab 8 Scripts\Ques3\bin\Debug\Ques3.exe
+C:\Users\arshs\Documents\Github\CSIS-1175\Lab 8 Scripts\Ques3\bin\Debug\Ques3.pdb
+C:\Users\arshs\Documents\Github\CSIS-1175\Lab 8 Scripts\Ques3\obj\Debug\Ques3.csproj.CoreCompileInputs.cache
+C:\Users\arshs\Documents\Github\CSIS-1175\Lab 8 Scripts\Ques3\obj\Debug\Ques3.exe
+C:\Users\arshs\Documents\Github\CSIS-1175\Lab 8 Scripts\Ques3\obj\Debug\Ques3.pdb
+C:\Users\arshs\Documents\Github\CSIS-1175\Lab 8 Solutions\Ques3\bin\Debug\Ques3.exe.config
+C:\Users\arshs\Documents\Github\CSIS-1175\Lab 8 Solutions\Ques3\bin\Debug\Ques3.exe
+C:\Users\arshs\Documents\Github\CSIS-1175\Lab 8 Solutions\Ques3\bin\Debug\Ques3.pdb
+C:\Users\arshs\Documents\Github\CSIS-1175\Lab 8 Solutions\Ques3\obj\Debug\Ques3.csprojAssemblyReference.cache
+C:\Users\arshs\Documents\Github\CSIS-1175\Lab 8 Solutions\Ques3\obj\Debug\Ques3.csproj.CoreCompileInputs.cache
+C:\Users\arshs\Documents\Github\CSIS-1175\Lab 8 Solutions\Ques3\obj\Debug\Ques3.exe
+C:\Users\arshs\Documents\Github\CSIS-1175\Lab 8 Solutions\Ques3\obj\Debug\Ques3.pdb

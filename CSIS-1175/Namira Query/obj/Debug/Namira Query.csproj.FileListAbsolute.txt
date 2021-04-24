@@ -1,0 +1,7 @@
+C:\Users\arshs\Documents\GitHub\Namira Query\bin\Debug\Namira Query.exe.config
+C:\Users\arshs\Documents\GitHub\Namira Query\bin\Debug\Namira Query.exe
+C:\Users\arshs\Documents\GitHub\Namira Query\bin\Debug\Namira Query.pdb
+C:\Users\arshs\Documents\GitHub\Namira Query\obj\Debug\Namira Query.csprojAssemblyReference.cache
+C:\Users\arshs\Documents\GitHub\Namira Query\obj\Debug\Namira Query.csproj.CoreCompileInputs.cache
+C:\Users\arshs\Documents\GitHub\Namira Query\obj\Debug\Namira Query.exe
+C:\Users\arshs\Documents\GitHub\Namira Query\obj\Debug\Namira Query.pdb

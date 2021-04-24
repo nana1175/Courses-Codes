@@ -1,0 +1,7 @@
+C:\Users\arshs\Documents\Github\CSIS-1175\ArshQuiz2-002\bin\Debug\ArshQuiz2-002.exe.config
+C:\Users\arshs\Documents\Github\CSIS-1175\ArshQuiz2-002\bin\Debug\ArshQuiz2-002.exe
+C:\Users\arshs\Documents\Github\CSIS-1175\ArshQuiz2-002\bin\Debug\ArshQuiz2-002.pdb
+C:\Users\arshs\Documents\Github\CSIS-1175\ArshQuiz2-002\obj\Debug\ArshQuiz2-002.csprojAssemblyReference.cache
+C:\Users\arshs\Documents\Github\CSIS-1175\ArshQuiz2-002\obj\Debug\ArshQuiz2-002.csproj.CoreCompileInputs.cache
+C:\Users\arshs\Documents\Github\CSIS-1175\ArshQuiz2-002\obj\Debug\ArshQuiz2-002.exe
+C:\Users\arshs\Documents\Github\CSIS-1175\ArshQuiz2-002\obj\Debug\ArshQuiz2-002.pdb

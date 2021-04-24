@@ -1,0 +1,7 @@
+C:\Users\arshs\Documents\GitHub\Vane Query\bin\Debug\Vane Query.exe.config
+C:\Users\arshs\Documents\GitHub\Vane Query\bin\Debug\Vane Query.exe
+C:\Users\arshs\Documents\GitHub\Vane Query\bin\Debug\Vane Query.pdb
+C:\Users\arshs\Documents\GitHub\Vane Query\obj\Debug\Vane Query.csprojAssemblyReference.cache
+C:\Users\arshs\Documents\GitHub\Vane Query\obj\Debug\Vane Query.csproj.CoreCompileInputs.cache
+C:\Users\arshs\Documents\GitHub\Vane Query\obj\Debug\Vane Query.exe
+C:\Users\arshs\Documents\GitHub\Vane Query\obj\Debug\Vane Query.pdb

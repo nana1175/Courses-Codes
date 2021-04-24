@@ -1,0 +1,7 @@
+C:\Users\arshs\Documents\Github\CSIS-1175\Vane Sessions\Array Based Frequency\obj\Debug\Array Based Frequency.csprojAssemblyReference.cache
+C:\Users\arshs\Documents\Github\CSIS-1175\Vane Sessions\Array Based Frequency\obj\Debug\Array Based Frequency.csproj.CoreCompileInputs.cache
+C:\Users\arshs\Documents\Github\CSIS-1175\Vane Sessions\Array Based Frequency\bin\Debug\Array Based Frequency.exe.config
+C:\Users\arshs\Documents\Github\CSIS-1175\Vane Sessions\Array Based Frequency\bin\Debug\Array Based Frequency.exe
+C:\Users\arshs\Documents\Github\CSIS-1175\Vane Sessions\Array Based Frequency\bin\Debug\Array Based Frequency.pdb
+C:\Users\arshs\Documents\Github\CSIS-1175\Vane Sessions\Array Based Frequency\obj\Debug\Array Based Frequency.exe
+C:\Users\arshs\Documents\Github\CSIS-1175\Vane Sessions\Array Based Frequency\obj\Debug\Array Based Frequency.pdb

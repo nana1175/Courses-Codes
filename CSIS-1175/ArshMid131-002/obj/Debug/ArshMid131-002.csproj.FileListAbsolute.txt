@@ -1,0 +1,14 @@
+C:\Users\arshs\source\repos\ArshMid131-002\bin\Debug\ArshMid131-002.exe.config
+C:\Users\arshs\source\repos\ArshMid131-002\bin\Debug\ArshMid131-002.exe
+C:\Users\arshs\source\repos\ArshMid131-002\bin\Debug\ArshMid131-002.pdb
+C:\Users\arshs\source\repos\ArshMid131-002\obj\Debug\ArshMid131-002.csprojAssemblyReference.cache
+C:\Users\arshs\source\repos\ArshMid131-002\obj\Debug\ArshMid131-002.csproj.CoreCompileInputs.cache
+C:\Users\arshs\source\repos\ArshMid131-002\obj\Debug\ArshMid131-002.exe
+C:\Users\arshs\source\repos\ArshMid131-002\obj\Debug\ArshMid131-002.pdb
+C:\Users\arshs\Documents\CSIS-1175\ArshMid131-002\bin\Debug\ArshMid131-002.exe.config
+C:\Users\arshs\Documents\CSIS-1175\ArshMid131-002\bin\Debug\ArshMid131-002.exe
+C:\Users\arshs\Documents\CSIS-1175\ArshMid131-002\bin\Debug\ArshMid131-002.pdb
+C:\Users\arshs\Documents\CSIS-1175\ArshMid131-002\obj\Debug\ArshMid131-002.csprojAssemblyReference.cache
+C:\Users\arshs\Documents\CSIS-1175\ArshMid131-002\obj\Debug\ArshMid131-002.csproj.CoreCompileInputs.cache
+C:\Users\arshs\Documents\CSIS-1175\ArshMid131-002\obj\Debug\ArshMid131-002.exe
+C:\Users\arshs\Documents\CSIS-1175\ArshMid131-002\obj\Debug\ArshMid131-002.pdb

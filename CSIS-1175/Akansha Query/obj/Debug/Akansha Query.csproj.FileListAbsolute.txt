@@ -1,0 +1,7 @@
+C:\Users\arshs\Documents\GitHub\Akansha Query\bin\Debug\Akansha Query.exe.config
+C:\Users\arshs\Documents\GitHub\Akansha Query\bin\Debug\Akansha Query.exe
+C:\Users\arshs\Documents\GitHub\Akansha Query\bin\Debug\Akansha Query.pdb
+C:\Users\arshs\Documents\GitHub\Akansha Query\obj\Debug\Akansha Query.csprojAssemblyReference.cache
+C:\Users\arshs\Documents\GitHub\Akansha Query\obj\Debug\Akansha Query.csproj.CoreCompileInputs.cache
+C:\Users\arshs\Documents\GitHub\Akansha Query\obj\Debug\Akansha Query.exe
+C:\Users\arshs\Documents\GitHub\Akansha Query\obj\Debug\Akansha Query.pdb

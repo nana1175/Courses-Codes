@@ -1,0 +1,7 @@
+C:\Users\arshs\Documents\GitHub\ArshQuiz1\bin\Debug\ArshQuiz1.exe.config
+C:\Users\arshs\Documents\GitHub\ArshQuiz1\bin\Debug\ArshQuiz1.exe
+C:\Users\arshs\Documents\GitHub\ArshQuiz1\bin\Debug\ArshQuiz1.pdb
+C:\Users\arshs\Documents\GitHub\ArshQuiz1\obj\Debug\ArshQuiz1.csprojAssemblyReference.cache
+C:\Users\arshs\Documents\GitHub\ArshQuiz1\obj\Debug\ArshQuiz1.csproj.CoreCompileInputs.cache
+C:\Users\arshs\Documents\GitHub\ArshQuiz1\obj\Debug\ArshQuiz1.exe
+C:\Users\arshs\Documents\GitHub\ArshQuiz1\obj\Debug\ArshQuiz1.pdb

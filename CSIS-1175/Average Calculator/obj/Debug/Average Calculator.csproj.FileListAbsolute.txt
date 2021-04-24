@@ -1,0 +1,7 @@
+C:\Users\arshs\Documents\GitHub\Average Calculator\bin\Debug\Average Calculator.exe.config
+C:\Users\arshs\Documents\GitHub\Average Calculator\bin\Debug\Average Calculator.exe
+C:\Users\arshs\Documents\GitHub\Average Calculator\bin\Debug\Average Calculator.pdb
+C:\Users\arshs\Documents\GitHub\Average Calculator\obj\Debug\Average Calculator.csprojAssemblyReference.cache
+C:\Users\arshs\Documents\GitHub\Average Calculator\obj\Debug\Average Calculator.csproj.CoreCompileInputs.cache
+C:\Users\arshs\Documents\GitHub\Average Calculator\obj\Debug\Average Calculator.exe
+C:\Users\arshs\Documents\GitHub\Average Calculator\obj\Debug\Average Calculator.pdb

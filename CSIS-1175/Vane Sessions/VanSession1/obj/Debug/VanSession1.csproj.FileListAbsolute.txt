@@ -1,0 +1,7 @@
+C:\Users\arshs\Documents\Github\CSIS-1175\Vane Sessions\VanSession1\bin\Debug\VanSession1.exe.config
+C:\Users\arshs\Documents\Github\CSIS-1175\Vane Sessions\VanSession1\bin\Debug\VanSession1.exe
+C:\Users\arshs\Documents\Github\CSIS-1175\Vane Sessions\VanSession1\bin\Debug\VanSession1.pdb
+C:\Users\arshs\Documents\Github\CSIS-1175\Vane Sessions\VanSession1\obj\Debug\VanSession1.csprojAssemblyReference.cache
+C:\Users\arshs\Documents\Github\CSIS-1175\Vane Sessions\VanSession1\obj\Debug\VanSession1.csproj.CoreCompileInputs.cache
+C:\Users\arshs\Documents\Github\CSIS-1175\Vane Sessions\VanSession1\obj\Debug\VanSession1.exe
+C:\Users\arshs\Documents\Github\CSIS-1175\Vane Sessions\VanSession1\obj\Debug\VanSession1.pdb

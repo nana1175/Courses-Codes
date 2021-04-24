@@ -1,0 +1,7 @@
+C:\Users\arshs\Documents\Github\CSIS-1175\david002_assignment\bin\Debug\david002_assignment.exe.config
+C:\Users\arshs\Documents\Github\CSIS-1175\david002_assignment\bin\Debug\david002_assignment.exe
+C:\Users\arshs\Documents\Github\CSIS-1175\david002_assignment\bin\Debug\david002_assignment.pdb
+C:\Users\arshs\Documents\Github\CSIS-1175\david002_assignment\obj\Debug\david002_assignment.csprojAssemblyReference.cache
+C:\Users\arshs\Documents\Github\CSIS-1175\david002_assignment\obj\Debug\david002_assignment.csproj.CoreCompileInputs.cache
+C:\Users\arshs\Documents\Github\CSIS-1175\david002_assignment\obj\Debug\david002_assignment.exe
+C:\Users\arshs\Documents\Github\CSIS-1175\david002_assignment\obj\Debug\david002_assignment.pdb

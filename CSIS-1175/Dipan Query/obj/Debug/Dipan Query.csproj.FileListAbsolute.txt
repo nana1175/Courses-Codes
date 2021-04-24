@@ -1,0 +1,7 @@
+C:\Users\arshs\Documents\GitHub\Dipan Query\bin\Debug\Dipan Query.exe.config
+C:\Users\arshs\Documents\GitHub\Dipan Query\bin\Debug\Dipan Query.exe
+C:\Users\arshs\Documents\GitHub\Dipan Query\bin\Debug\Dipan Query.pdb
+C:\Users\arshs\Documents\GitHub\Dipan Query\obj\Debug\Dipan Query.csprojAssemblyReference.cache
+C:\Users\arshs\Documents\GitHub\Dipan Query\obj\Debug\Dipan Query.csproj.CoreCompileInputs.cache
+C:\Users\arshs\Documents\GitHub\Dipan Query\obj\Debug\Dipan Query.exe
+C:\Users\arshs\Documents\GitHub\Dipan Query\obj\Debug\Dipan Query.pdb

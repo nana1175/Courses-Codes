@@ -1,0 +1,7 @@
+C:\Users\arshs\Documents\Github\CSIS-1175\David Code Example\bin\Debug\David Code Example.exe.config
+C:\Users\arshs\Documents\Github\CSIS-1175\David Code Example\bin\Debug\David Code Example.exe
+C:\Users\arshs\Documents\Github\CSIS-1175\David Code Example\bin\Debug\David Code Example.pdb
+C:\Users\arshs\Documents\Github\CSIS-1175\David Code Example\obj\Debug\David Code Example.csprojAssemblyReference.cache
+C:\Users\arshs\Documents\Github\CSIS-1175\David Code Example\obj\Debug\David Code Example.csproj.CoreCompileInputs.cache
+C:\Users\arshs\Documents\Github\CSIS-1175\David Code Example\obj\Debug\David Code Example.exe
+C:\Users\arshs\Documents\Github\CSIS-1175\David Code Example\obj\Debug\David Code Example.pdb
